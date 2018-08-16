@@ -1,0 +1,1 @@
+- Contains XSS utilities specific to Django Templates.

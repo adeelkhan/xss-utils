@@ -1,0 +1,1 @@
+- Contains XSS utilities that work for either Django Template or Mako Templates
