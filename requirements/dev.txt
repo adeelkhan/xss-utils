@@ -18,7 +18,7 @@ codecov==2.0.15
 coverage==4.5.1
 diff-cover==1.0.4
 distlib==0.2.7
-django==1.11.15
+django==1.11.23           # via edx-i18n-tools
 edx-i18n-tools==0.4.7
 edx-lint==0.5.5
 first==2.0.1
