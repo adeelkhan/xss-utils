@@ -16,7 +16,6 @@ click-log==0.1.8          # via edx-lint
 click==6.7                # via click-log, edx-lint
 coverage==4.5.1
 distlib==0.2.7            # via caniusepython3
-django==1.11.15
 edx-lint==0.5.5
 idna==2.7                 # via requests
 isort==4.3.4
